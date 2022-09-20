@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 -💫  About Me :
-- 🔭 I’m currently working as a Software Developer.
-- 💬 Ask me about anything related to Javascript/Typescript/Node/Express/Mongo Db/Postgres
+- 🔭 I’m currently working as a Senior Software Developer.
+- 💬 Ask me about anything related to Javascript/Typescript/Node/Express/Mongo Db/Postgres/Aws
 - 📫 How to reach me: seguteja1997@gmail.com
 - 😄 Pronouns: He/His
 
