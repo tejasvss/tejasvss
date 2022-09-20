@@ -17,10 +17,9 @@
   </p>
 <p>
   <a href="https://www.instagram.com/tejamass1111/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="29px" 
+  <img align="left" alt="Vedant Jajoo Linkdin" width="32px" 
   src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg"/>
-</a>
-- INSTAGRAM
+</a>- INSTAGRAM
   </p>
 
 
