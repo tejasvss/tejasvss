@@ -13,7 +13,7 @@
 </a>
 - LINKED IN
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg)
 
 
 
