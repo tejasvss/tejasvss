@@ -13,7 +13,7 @@
 </a>
 - LINKED IN
 
-![Visitor Count](https://profile-counter.glitch.me/github.com/tejasvss/count.svg)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=tejasvss&color=green)
 
 
 
