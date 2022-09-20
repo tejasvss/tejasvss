@@ -11,14 +11,14 @@
 ### Connect with me :smiley:
 <p>
 <a href="https://www.linkedin.com/in/teja-segu-26472717a/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg"/>
 </a>
--  LINKEDIN
+- LINKEDIN
   </p>
 <p>
   <a href="https://www.instagram.com/tejamass1111/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="25px" 
-  src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg"  />
+  <img align="left" alt="Vedant Jajoo Linkdin" width="29px" 
+  src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg"/>
 </a>
 - INSTAGRAM
   </p>
