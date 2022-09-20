@@ -6,6 +6,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I ❤️ 🐶s
 
+
+![VISITORS COUNT ](https://komarev.com/ghpvc/?username=tejasvss&color=green&style=flat-square)
+
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/teja-segu-26472717a/">
@@ -14,7 +17,7 @@
 - LINKED IN
 
 
-![VISITORS COUNT ](https://komarev.com/ghpvc/?username=tejasvss&color=green)
+
 
 
 
