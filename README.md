@@ -25,7 +25,8 @@ This is the place where I opensource stuff and break things 🤣
 </a>
 - LINKED IN
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count]
+(https://profile-counter.glitch.me/tejasvss/count.svg)
 
 
 
