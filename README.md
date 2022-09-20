@@ -13,7 +13,8 @@
 </a>
 - LINKED IN
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=tejasvss&color=green)
+
+![VISITORS COUNT ](https://komarev.com/ghpvc/?username=tejasvss&color=green)
 
 
 
