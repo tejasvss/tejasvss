@@ -15,6 +15,13 @@
 </a>
 - LINKED IN
 
+<a href="https://www.instagram.com/tejamass1111/">
+  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" 
+  src="https://about.fb.com/wp-content/uploads/2019/10/IG-Glyph-Icon-hero.png" width=48 />
+</a>
+- INSTAGRAM
+
+
 
 
 
