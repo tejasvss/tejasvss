@@ -1,3 +1,5 @@
+![This is an image](https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg)
+
 ### Hi there 👋
 -💫  About Me :
 - 🔭 I’m currently working on Backend(NODE JS).
@@ -13,7 +15,7 @@
 </a>
 - LINKED IN
 
-![This is an image](https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg)
+
 
 
 
