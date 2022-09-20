@@ -1,5 +1,7 @@
 ### Hi there 👋
 -💫About Me :
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 -🔭 I’m currently working on Backend(Node JS).
 -🌱 I’m currently learning more about Web Development and React.Js.
 -🤔 I’m looking for help with Exploring New Technologies.
