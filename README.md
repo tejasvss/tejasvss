@@ -4,11 +4,8 @@
 - 💬 Ask me about anything related to Javascript/Typescript/Node/Express/Mongo Db/Postgres
 - 📫 How to reach me: seguteja1997@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I ❤️ 🐶s
-
 
 ![](https://komarev.com/ghpvc/?username=tejasvss&color=green&style=for-the-badge&label=TOTAL+VISITORS+COUNT)
-
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/teja-segu-26472717a/">
