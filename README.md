@@ -6,18 +6,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I ❤️ 🐶s
 
-This is the place where I opensource stuff and break things 🤣
-
-🔭  I’m currently working on something cool 😉
-🌱  I’m currently learning Flutter, Go
-💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-📫  How to reach me: @gautamkrishnar or fosstodon.org/@gkr
-👨‍💻  Read more about my projects at gautamkrishnar.com
-⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme)
-📕  Latest Blog Posts
-
-
-
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/teja-segu-26472717a/">
@@ -25,7 +13,7 @@ This is the place where I opensource stuff and break things 🤣
 </a>
 - LINKED IN
 
-![Visitor Count](https://profile-counter.glitch.me/https://github.com/tejasvss/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/github.com/tejasvss/count.svg)
 
 
 
