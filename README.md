@@ -1,4 +1,3 @@
-![This is an image](https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg)
 <img src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="500" height="300">
 
 ### Hi there 👋
