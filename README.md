@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I ❤️ 🐶s
 
 
-![](https://komarev.com/ghpvc/?username=tejasvss&color=green&style=for-the-badge&label=TOTAL+PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=tejasvss&color=green&style=for-the-badge&label=TOTAL+VISITORS+COUNT)
 
 ### Connect with me :smiley:
 
