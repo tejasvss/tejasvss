@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 -💫  About Me :
-- 🔭 I’m currently working on Backend(NODE JS).
+- 🔭 I’m currently working as a Software Developer.
 - 💬 Ask me about anything related to Javascript/Typescript/Node/Express/Mongo Db/Postgres
 - 📫 How to reach me: seguteja1997@gmail.com
 - 😄 Pronouns: He/His
