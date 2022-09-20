@@ -17,7 +17,7 @@
 
 <a href="https://www.instagram.com/tejamass1111/">
   <img align="left" alt="Vedant Jajoo Linkdin" width="40px" 
-  src="https://about.fb.com/wp-content/uploads/2019/10/IG-Glyph-Icon-hero.png"  />
+  src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg"  />
 </a>
 - INSTAGRAM
 
